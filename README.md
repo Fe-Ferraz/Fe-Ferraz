@@ -44,9 +44,7 @@ const aboutMe = {
 <div align="center">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
@@ -56,7 +54,7 @@ const aboutMe = {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{rach-vp}/count.svg" alt="rach-vp :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{felipe0520}/count.svg" alt="felipe0520 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
