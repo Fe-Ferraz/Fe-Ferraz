@@ -1,83 +1,66 @@
-# Welcome!
+### Hey! I'm Felipe 👋
 
- 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferraz-dev/)
+[<img src="https://img.shields.io/github/followers/rach-vp?label=follow&style=social" height="22" title="Follow me" />](https://github.com/felipe0520)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felipeefrz1991@gmail.com)
 
-## I'm (Felipe)!
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
- 
+```javascript
+const aboutMe = {
+  pronouns: 'He' | 'Him',
+  askMeAbout: ['web dev', 'tech', 'travel'],
+  work: {
+    'Outsmart digitl': 'Mid-level Developer',
+  },
+  level: 'mid-level',
+  education: {
+    'Labenu': 'Full-stack Web Development',
+    'UFMG': 'Engenharia de software moderna',
+  },
+  code: ['javascript', 'typescript'],
+  technologies: {
+    frontEnd: {
+      css: ['styled components'],
+      js: ['react', 'next'],
+    },
+    mobile: ['react-native'],
+    backEnd: {
+      js: ['node', 'express', 'nestjs', 'graphql'],
+    },
+    devops: {
+      'cloud': ['aws', 'heroku],
+      'build': ['docker'],
+    },
+    databases: ['mongodb', 'postgresql'],
+    tests: ['jest','mocha', 'chai', 'sinon'],
+    outher: ['rabbitMQ'] 
+  }
+}
+```
 
-:computer: I'm FullStack Developer!
+<h2 align="center">My utilities belt 🛠️</h2>
 
-:house_with_garden: I’m from Brazil.
+<div align="center">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+</div>
 
-:books: I’m currently learning everything.
+<h2 align="center">Github stats :bar_chart:</h2>
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+<h4 align="center">Visitor's count :eyes:</h4>
 
- 
+<p align="center"><img src="https://profile-counter.glitch.me/{rach-vp}/count.svg" alt="rach-vp :: Visitor's Count" /></p>
 
-## About me
+<h4 align="center">Top langs :tongue:</h4>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0520&langs_count=10&theme=tokyonight&layout=compact" alt="rach-vp :: Top Langs" /></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
-
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
-
-(SEU NOME) = Hellen.
-
-LINK_GIT = https://github.com/hellenmas.
-
-💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
-
-Emblemas.
-Para obter emblemas acesse o link abaixo:
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
-
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
-
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
--  Agora basta copiar para seu README e a mágica acontece.
-
-Blocos
--  Para adicionar blocos, temos varias opções no link abaixo:
-
-https://github.com/anuraghazra/github-readme-stats#themes
-
-- Após escolher seu bloco copie a URL e cole em seu README:
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
-
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
-
-NOMEGIT= hellenmas. 
-
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
-
-GIF
-- Encontre o gif que mais combina com você nesse link:
-
-https://github.com/TheDudeThatCode/TheDudeThatCode
-
-*OBS deixo abaixo um exemplo para ser usado:
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-Imagem
-1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
-
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
-
-2. Para fazer o upload de imagens basta você clicar na imagem que esta em seu computador e arrastar a imagem para o seu README.
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipe0520&show_icons=true&theme=tokyonight" alt="felipe0520 :: Profile Stats" /></p>
