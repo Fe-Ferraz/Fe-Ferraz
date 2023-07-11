@@ -60,6 +60,8 @@ const aboutMe = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0520&langs_count=10&layout=compact&theme=dark" alt="felipe0520 :: Top Langs" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0520)](https://github.com/anuraghazra/github-readme-stats)
+
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipe0520&show_icons=true&theme=dark" alt="felipe0520 :: Profile Stats" /></p>
