@@ -44,6 +44,7 @@ const aboutMe = {
 <div align="center">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
