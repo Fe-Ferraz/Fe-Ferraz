@@ -4,8 +4,6 @@
 [<img src="https://img.shields.io/github/followers/rach-vp?label=follow&style=social" height="22" title="Follow me" />](https://github.com/felipe0520)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felipeefrz1991@gmail.com)
 
-<div align="center">
-
 ```javascript
 const aboutMe = {
   pronouns: 'He' | 'Him',
@@ -38,7 +36,6 @@ const aboutMe = {
   }
 }
 ```
-</div>
 
 <h2 align="center">My utilities belt 🛠️</h2>
 
