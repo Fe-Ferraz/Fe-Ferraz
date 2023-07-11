@@ -62,4 +62,4 @@ const aboutMe = {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipe0520&show_icons=true&theme=tokyonight" alt="felipe0520 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipe0520&show_icons=true&talt="felipe0520 :: Profile Stats" /></p>
