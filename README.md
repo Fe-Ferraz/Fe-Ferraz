@@ -9,14 +9,14 @@ const aboutMe = {
   pronouns: 'He' | 'Him',
   askMeAbout: ['web dev', 'tech', 'travel'],
   work: {
-    'Outsmart digitl': 'Mid-level Developer',
+    'Getrak': 'Senior-level Developer',
   },
-  level: 'mid-level',
+  level: 'senior-level',
   education: {
     'Labenu': 'Full-stack Web Development',
     'UFMG': 'Engenharia de software moderna',
   },
-  code: ['javascript', 'typescript'],
+  code: ['javascript', 'typescript', 'php', 'java'],
   technologies: {
     frontEnd: {
       css: ['styled components'],
@@ -30,9 +30,9 @@ const aboutMe = {
       'cloud': ['aws', 'heroku],
       'build': ['docker'],
     },
-    databases: ['mongodb', 'postgresql'],
+    databases: ['mongodb', 'postgresql', 'mysql'],
     tests: ['jest','mocha', 'chai', 'sinon'],
-    outher: ['rabbitMQ'] 
+    outher: ['rabbitMQ, redis'] 
   }
 }
 ```
